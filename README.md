@@ -24,8 +24,8 @@ the place where "technically legal but economically harmful" needs a real answer
 | Project | What it does | Impact |
 |---|---|---|
 | 🏆 **[OmniClaw / OmniAgentPay](https://github.com/omnuron/omniclaw)** | AI-native payment infrastructure for autonomous agents | 1st place @ Circle × Google Gemini Hackathon ($20k, 1000+ participants) |
-| 📡 **US Crypto Reg Tracker** | Weekly regulatory digest — CLARITY Act, stablecoin legislation, SEC/CFTC enforcement | Built for compliance people who want signal, not noise |
-| 🔍 **CryptoAML Investigator** | AI-assisted AML narrative tool | 6-section structure, validated on real case workflows |
+| 📡 **US Crypto Reg Tracker** | Weekly digest tracking CLARITY Act, stablecoin legislation & SEC/CFTC enforcement — signal over noise for crypto compliance professionals | Open source, community-facing |
+| 🔍 **CryptoAML Investigator** | AI-assisted AML narrative generator for crypto investigations — 6-section structure, SAR-ready output | Built for crypto compliance teams |
 
 ---
 
