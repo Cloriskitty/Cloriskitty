@@ -11,11 +11,16 @@
 
 ## 🧠 what I do
 
-I work at the execution layer where **adversarial user behavior meets regulatory gray zones** —
-the place where "technically legal but economically harmful" needs a real answer, not a policy doc.
+Started with Russian literature. Ended up building compliance infrastructure for AI agents.
 
-**Current**: GFCCI Compliance Analyst + AI Workflow Skill Product Owner @ OKX
-**Path**: BFSU Russian Arts → PKU Economics → Cornell Weill Cornell Medicine MS (Health Policy & Econ) → Goldman Sachs BSA/AML → now building onchain
+Not accidental. Every domain I've landed in runs systems written for one world
+while operating in another — health policy, private wealth, crypto.
+Same problem. Different stack.
+
+Goldman PWM → OKX → building onchain.
+The gray zone followed me everywhere. I stopped running from it.
+
+**Currently**: GFCCI Compliance Analyst + AI Workflow Skill Product Owner @ OKX
 
 ---
 
@@ -44,6 +49,18 @@ the place where "technically legal but economically harmful" needs a real answer
 ↳ Why airdrop farmers (撸毛) are actually the hardest AML case — not the obvious criminals
 
 ↳ What CLARITY Act's passive yield ban really means for DEX product architecture
+```
+
+---
+
+## 🌊 off the clock
+
+```python
+interests = {
+    "sport":  ["triathlon 🏊🚴🏃", "skiing ⛷️", "diving 🤿"],
+    "food":   ["bay area restaurant hunting 🍜", "cooking with husband 👨‍🍳"],
+    "vibe":   "always training for something"
+}
 ```
 
 ---
