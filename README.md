@@ -32,10 +32,18 @@ the place where "technically legal but economically harmful" needs a real answer
 ## 🔭 what I think about
 
 ```
-↳ Where compliance friction silently kills onchain user behavior
-↳ ERC-3643 vs X402 — compliance in the asset vs at the application layer
-↳ Why airdrop farmers are actually the hardest AML case (not the obvious criminals)
-↳ What the CLARITY Act really means for DEX product design
+↳ RWA compliance infra: ERC-3643 (compliance in the asset) vs X402 (at application layer)
+   — which primitive wins when tokenized equities scale?
+
+↳ Who becomes the distribution layer for US dollar assets to non-USD regions,
+   and what does the compliance stack look like at that layer?
+
+↳ Agentic payments & accountability: when an AI agent executes a transaction,
+   who authorized it — and is that provable onchain?
+
+↳ Why airdrop farmers (撸毛) are actually the hardest AML case — not the obvious criminals
+
+↳ What CLARITY Act's passive yield ban really means for DEX product architecture
 ```
 
 ---
