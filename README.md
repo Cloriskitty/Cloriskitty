@@ -24,11 +24,12 @@ The gray zone followed me everywhere. I stopped running from it.
 
 ---
 
-## 🚢 things I've shipped
+## 🚀 things I've shipped
 
 | Project | What it does | Impact |
 |---|---|---|
-| 🏆 **[OmniClaw / OmniAgentPay](https://github.com/omnuron/omniclaw)** | AI-native payment infrastructure for autonomous agents | 1st place @ Circle × Google Gemini Hackathon ($20k, 1000+ participants) |
+| 🏆 **[OmniClaw / OmniAgentPay](https://github.com/omnuron/omniclaw)** | Economic control & trust infrastructure for autonomous agents — guarded execution, policy enforcement, compliance-aware payments | 1st place @ Circle × Google Gemini Hackathon ($20k, 1000+ participants) |
+| 🗺️ **[SF Web3 Quest](https://github.com/Cloriskitty/sf-web3-quest)** | Dragon Quest–style interactive map of 17+ Web3 companies across the SF Bay Area — exchanges, infra, custody, investors | Open source, community-driven |
 | 📡 **US Crypto Reg Tracker** | Weekly digest tracking CLARITY Act, stablecoin legislation & SEC/CFTC enforcement — signal over noise for crypto compliance professionals | Open source, community-facing |
 | 🔍 **CryptoAML Investigator** | AI-assisted AML narrative generator for crypto investigations — 6-section structure, SAR-ready output | Built for crypto compliance teams |
 
@@ -36,10 +37,22 @@ The gray zone followed me everywhere. I stopped running from it.
 
 ## 🔭 what I think about
 
-```
-↳ RWA compliance infra: ERC-3643 (compliance in the asset) vs X402 (at application layer)
-   — which primitive wins when tokenized equities scale?
+### RWA — the compliance layer nobody's built yet
 
+Tokenized equities are coming. The question isn't *if* — it's which compliance primitive wins:
+
+```
+↳ ERC-3643 embeds compliance in the asset (identity registry, transfer rules baked into the token)
+↳ X402 enforces compliance at the application layer (payment-time policy, protocol-agnostic)
+
+Neither is complete alone. ERC-3643 can't handle cross-chain flows.
+X402 can't enforce transfer restrictions the asset itself should carry.
+The real stack probably needs both — asset-level identity + application-level policy.
+```
+
+### Other threads I keep pulling
+
+```
 ↳ Who becomes the distribution layer for US dollar assets to non-USD regions,
    and what does the compliance stack look like at that layer?
 
@@ -49,6 +62,9 @@ The gray zone followed me everywhere. I stopped running from it.
 ↳ Why airdrop farmers (撸毛) are actually the hardest AML case — not the obvious criminals
 
 ↳ What CLARITY Act's passive yield ban really means for DEX product architecture
+
+↳ Stablecoin reserve transparency — proof-of-reserves is table stakes,
+   but who audits the auditors when everything's cross-jurisdictional?
 ```
 
 ---
