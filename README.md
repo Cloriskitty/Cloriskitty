@@ -41,7 +41,6 @@ pre-execution policy sim · authorization traceability · real-time enforcement
 **[SF Web3 Quest](https://sf-web3-quest.vercel.app/)** — 17+ Bay Area web3 companies mapped in Dragon Quest style. because why not.
 **[HK Web3 Quest](https://hk-web3-quest.vercel.app/)** — same energy, different timezone.
 **US Crypto Reg Tracker** — weekly digest: CLARITY Act, stablecoins, enforcement
-**CryptoAML Investigator** — AI-assisted AML narrative generator. SAR-ready output.
 
 ---
 
