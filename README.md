@@ -6,10 +6,6 @@
 
 ---
 
-### compliance is just product spec nobody wrote down yet
-
----
-
 🧠 **what I do**
 
 Started with Russian literature. Ended up building safety infrastructure for agentic payments.
