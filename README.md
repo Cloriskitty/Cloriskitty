@@ -1,62 +1,63 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vMultiline=true&width=650&lines=hey%2C+I'm+Clo+%F0%9F%90%B1;Compliance+brain.+Product+instincts.;Building+at+the+reg+%C3%97+onchain+frontier." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Clo+%F0%9F%90%B1;building+where+AI%2C+money+%26+crypto+culture+collide;serious+systems.+occasionally+unserious+interfaces." alt="Hey, I'm Clo. Building where AI, money, and crypto culture collide." />
 
-  [![X](https://img.shields.io/badge/@ItsCloRizz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ItsCloRizz) [![LinkedIn](https://img.shields.io/badge/Cloris_Z.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloris-qinghe-zhang-121655235/)
+  [![X](https://img.shields.io/badge/@ItsCloRizz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ItsCloRizz)
+  [![LinkedIn](https://img.shields.io/badge/Cloris_Z.-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloris-qinghe-zhang-121655235/)
 </div>
 
 ---
 
-🧠 **what I do**
+### what I do
 
-Started with Russian literature. Ended up building safety infrastructure for agentic payments.
+I build useful things for strange, high-context corners of the internet.
 
-Not accidental. Every domain I've landed in runs systems written for one world while operating in another — health policy, private wealth, crypto. Same problem. Different stack.
+Most of my work starts with the same problem: technology moves faster than the language, rules, and institutions around it. Sometimes that means teaching AI agents when they can move money. Sometimes it means translating a crypto meme without explaining the joke to death.
 
-Goldman PWM → OKX: building onchain. The gray zone followed me everywhere. I stopped running from it.
+Previously **Goldman PWM → OKX**. Currently somewhere between agentic payments, onchain policy, and cross-cultural crypto infrastructure.
 
----
+### currently building
 
-🔧 **what I'm building**
+#### [OmniClaw](https://github.com/omnuron/omniclaw)
 
-**[OmniClaw](https://github.com/omnuron/omniclaw)** — agents can move money now. nothing checks if they should.
-pre-execution policy sim · authorization traceability · real-time enforcement
-🏆 1st place, Circle × Google Gemini hackathon · $20k · 1000+ teams
+Agents can move money now. OmniClaw helps decide whether they should.
 
----
+Pre-execution policy simulation · authorization traceability · real-time enforcement
 
-💭 **what I'm thinking about**
+**1st place**, Circle × Google Gemini hackathon · $20k · 1,000+ teams
 
-- AI agents can spend money autonomously. who's liable when they shouldn't have?
-- 撸毛 vs. legitimate arbitrage — identical onchain behavior. how do you tell the difference at scale?
-- ERC-3643 writes compliance into the asset itself. X402 keeps it at the app layer. for autonomous agents, neither is fully right yet.
+#### [CT Bridge](https://github.com/Cloriskitty/ct-bridge)
 
----
+An open-source Agent Skill for the gap between Chinese crypto and English Crypto Twitter.
 
-🗺️ **other things I made**
+It decodes slang, memes, tone, and cultural context in one direction. In the other, it helps Chinese writers publish natural English without quietly rewriting what they meant.
 
-**[SF Web3 Quest](https://sf-web3-quest.vercel.app/)** — 17+ Bay Area web3 companies mapped in Dragon Quest style. because why not.
-**[HK Web3 Quest](https://hk-web3-quest.vercel.app/)** — same energy, different timezone.
-**US Crypto Reg Tracker** — weekly digest: CLARITY Act, stablecoins, enforcement
+### current rabbit holes
 
----
+- when an AI agent spends money, who gets to define “allowed”?
+- two wallets can look identical onchain and mean completely different things. how should systems tell?
+- what gets lost when crypto ideas cross languages, timelines, and communities?
+- can compliance become useful infrastructure instead of the final boss?
 
-🌊 **off the clock**
+### side quests
+
+- **[SF Web3 Quest](https://sf-web3-quest.vercel.app/)**: 17+ Bay Area web3 companies mapped in Dragon Quest style
+- **[HK Web3 Quest](https://hk-web3-quest.vercel.app/)**: same energy, different timezone
+- **US Crypto Reg Tracker**: a weekly digest of stablecoins, market structure, and enforcement
+
+### off the clock
 
 ```python
-interests = {
-    "sport": ["triathlon 🏊🚴🏃", "skiing ⛷️", "diving 🤿"],
-    "vibe": "always training for something"
+clo = {
+    "training_for": "usually something",
+    "sports": ["triathlon", "skiing", "diving"],
+    "default_state": "curious",
 }
 ```
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cloriskitty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cloriskitty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Clo's GitHub stats" />
 </div>
 
----
-
 <div align="center">
-  <i>just a chill kitty surfing onchain 🌊</i>
+  <i>just a chill kitty building onchain 🌊</i>
 </div>
